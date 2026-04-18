@@ -10,7 +10,7 @@ Repository untuk proyek praktikum/ETS **Pemrosesan Citra Digital**. Aplikasi lin
 ## ✨ Fitur Utama
 
 - 📝 **Manajemen Logbook (CRUD)**
-  Mencatat kegiatan harian yang terintegrasi dengan penyimpanan database SQLite lokal (`sqflite`).
+  Mencatat kegiatan harian yang terintegrasi dengan penyimpanan database.
 - 🖼️ **Pemrosesan Titik (Point Processing)**
   - Grayscale & Biner/B&W.
   - Inversi Warna (Negative Image).
